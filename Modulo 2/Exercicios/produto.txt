@@ -1,0 +1,1 @@
+Produto: celular | valor: 2000.0 | quantidade: 1.0
